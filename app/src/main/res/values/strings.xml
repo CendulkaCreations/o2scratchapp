@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Scratch App</string>
+    <string name="go_to_activation">Go to Activation Screen</string>
+    <string name="go_to_scratch">Go to Scratch Screen</string>
+    <string name="activate_card">Activate Card</string>
+    <string name="scratch_card">Scratch Card</string>
+    <string name="card_activated">Card activated: %s</string>
+    <string name="card_scratched">Card scratched: %s</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="back">Back</string>
+    <string name="card_state">Card state</string>
+    <string name="scratch_info">Scratch the card by click the button to reveal the code.</string>
+    <string name="activation_info">To activate the card, please click on the button.</string>
+    <string name="activation_in_progress">Card activation in progress…</string>
+    <string name="error_occured">Error occurred</string>
+    <string name="activation_error">During activation process an error has occurred</string>
+    <string name="activation_success">Activation has been successful</string>
+</resources>
