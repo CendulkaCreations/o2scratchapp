@@ -1,6 +1,8 @@
 # Introduction
 This repository contains the implementation of a Scratch Card App. The project is structured following a clean architecture pattern and is built using Jetpack Compose for the UI and Kotlin for the business logic.
 
+[Demo](assets/demo.webm)
+
 # Project Structure
 The project is organized into several layers, each responsible for a different concern:
 
